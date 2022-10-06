@@ -18,6 +18,8 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+  Wangs的Bilibili: "https://space.bilibili.com/2128949940"
+  五维介质讨论站: "http://discuss.medium5.top"
 
 # Footer
 footer:
@@ -26,7 +28,7 @@ footer:
 # Author 配置博主信息
 author: 'Wangs'
 nickname: 'Wangs'
-bio: '一个中度抑郁少年，今年14，上初二。会调教，编曲，写代码，做UI（都只是会一点而已）'
+bio: '一个中度抑郁少年，今年14，上初二。会调教，编曲，写代码，做UI（都只是会一点而已）狂粉五维介质！！！'
 avatar: 'https://avatars.githubusercontent.com/u/110818404?v=4'
 
 # Search
