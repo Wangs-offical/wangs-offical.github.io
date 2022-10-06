@@ -6,6 +6,6 @@ date: 2022-10-6
 categories: 闲聊
 tags: 闲聊
 ---
-#第一篇
+# 第一篇
 
 不错的GitHub pages，比自己买域名搭博客好多了
